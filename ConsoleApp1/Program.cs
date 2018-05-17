@@ -15,7 +15,7 @@ namespace ConsoleApp1
             //int[] rArr = 
                 FindTwoNumberTotal(arr, FindTotal);
 
-            //Console.WriteLine(rArr[0]);
+            Console.WriteLine(rArr[0]);
             //Console.WriteLine(rArr[1]);
 
         }
